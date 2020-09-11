@@ -5,7 +5,7 @@ from pprint import pprint
 
 
 # enlever r devant le chemin si vous n'etes pas sous windows
-chemin = r"\Users\grbro\OneDrive\Images\background"
+chemin = r"\Users\grbro\OneDrive\Images"
 
 # ==>  "format" : "dossier de rangement"
 extensions = {".svg": "SVG",
